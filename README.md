@@ -43,10 +43,10 @@ The procrastination v. completion card offers the total and breakdowns of your a
 
 Leaderboards
 
-<img src="img/Screenshot_1586794594.png" width = "200">     
+<img src="img/Screenshot_1586794594.png" width = "200">     <img src="img/Screenshot_1589632432.png" width = "200">    
 
 The leaderboards allow users to compete against their peers. Completion and procrastination totals are tallied up and the top 100 users will find themselves on the completion or the procrastination leaderboard depending on what they excel at. Completing challenges will boost your completion score allowing you to rise to the top faster.
-<img src="img/Screenshot_1589632432.png" width = "200">
+
 
 Notifications
 
