@@ -50,8 +50,10 @@ The leaderboards allow users to compete against their peers. Completion and proc
 
 Notifications
 
-<img src="img/Capture.png" width = "200"> 
+<img src="img/Capture.PNG" width = "200"> 
 
 Get notified about your due ToDos from the widget. Enabling the widget also enables periodic notifications to help you complete things on your ToDo list. 
+
+Enjoy!
 
 
