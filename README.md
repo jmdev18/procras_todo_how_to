@@ -52,7 +52,7 @@ Notifications
 
 <img src="img/Capture.PNG" width = "200"> 
 
-Get notified about your due ToDos from the widget. Enabling the widget also enables periodic notifications to help you complete things on your ToDo list. 
+Get notified about your due items for the day. Enabling the widget also enables periodic notifications throughout the day help you stay focused and complete your goals. 
 
 Enjoy!
 
